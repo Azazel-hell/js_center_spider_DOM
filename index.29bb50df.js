@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){var t=document.querySelector("img.spider"),e=document.querySelector(".wall"),o=window.getComputedStyle(e),a=window.getComputedStyle(t),l=parseFloat(o.width),d=parseFloat(o.height),n=parseFloat(a.width),i=parseFloat(a.height);t.style.position="absolute",t.style.left="".concat((l-n)/2,"px"),t.style.top="".concat((d-i)/2,"px")});
+//# sourceMappingURL=index.29bb50df.js.map
